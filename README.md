@@ -1,8 +1,4 @@
-Absolutely! Here’s a **professional, copy-paste-ready README.md** tailored for your **Spam News Detection Using Deep Learning-Based NLP** project. You can edit the repo name, add badges, or adjust code paths as needed.
 
----
-
-```markdown
 # Spam News Detection Using Deep Learning-Based NLP
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
